@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766957856088",
+    "project_id": "operacao-resgate",
+    "storage_bucket": "operacao-resgate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766957856088:android:2da719356d2416e163b12d",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766957856088-hln17u2vu2u2cupah1n9gtro0ap7p2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2MDSjycrF84rAtSKyxBGtj4pGuttUNbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766957856088-hln17u2vu2u2cupah1n9gtro0ap7p2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
